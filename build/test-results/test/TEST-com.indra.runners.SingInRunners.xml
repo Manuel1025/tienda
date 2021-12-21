@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.indra.runners.SingInRunners" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="22LAP5CD1346NJJ" time="0.0">
+  <properties/>
+  <system-out><![CDATA[17:29:22.608 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\FINAL ELVIS\dojo_serenity_cucumber\serenity.properties 
+17:29:22.679 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\FINAL ELVIS\dojo_serenity_cucumber\serenity.properties 
+17:29:22.683 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\FINAL ELVIS\dojo_serenity_cucumber\serenity.properties 
+17:29:22.695 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+17:29:22.696 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
+17:29:22.696 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+17:29:22.696 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+17:29:22.696 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+17:29:22.696 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=http://automationpractice.com
+17:29:22.696 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
+17:29:22.697 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+17:29:22.697 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+17:29:22.697 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=10000
+17:29:22.697 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+17:29:23.203 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\FINAL ELVIS\dojo_serenity_cucumber\serenity.properties 
+17:29:23.215 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\FINAL ELVIS\dojo_serenity_cucumber\serenity.properties 
+17:29:23.218 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\FINAL ELVIS\dojo_serenity_cucumber\serenity.properties 
+17:29:23.220 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+17:29:23.220 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
+17:29:23.221 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+17:29:23.221 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+17:29:23.221 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+17:29:23.221 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=http://automationpractice.com
+17:29:23.221 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
+17:29:23.222 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+17:29:23.222 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+17:29:23.222 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=10000
+17:29:23.222 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+17:29:23.229 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Rocket Chat at https://serenity-bdd.rocket.chat      
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+ Learn Serenity BDD online at http://serenity-dojo.com                               
+-------------------------------------------------------------------------------------
+?[0m
+17:29:23.237 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus - Test suite started for story net.thucydides.core.model.Story@78a8f74a
+17:29:23.239 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Formulario de Registro
+17:29:23.319 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: Deberia registrarse cuando envia los datos requeridos
+-------------------------------------------------------------------(formulario-de-registro;deberia-registrarse-cuando-envia-los-datos-requeridos)
+17:29:23.707 [Test worker] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.6 class cucumber.runtime.model.FeatureLoader try Cucumber 4.2.0 
+17:29:23.708 [Test worker] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.0 class cucumber.runtime.model.FeatureLoader try Cucumber 2.x.x 
+17:29:23.767 [Test worker] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.6 class cucumber.runtime.model.FeatureLoader try Cucumber 4.2.0 
+17:29:23.768 [Test worker] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.0 class cucumber.runtime.model.FeatureLoader try Cucumber 2.x.x 
+17:29:23.816 [Test worker] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.6 class cucumber.runtime.model.FeatureLoader try Cucumber 4.2.0 
+17:29:23.817 [Test worker] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.0 class cucumber.runtime.model.FeatureLoader try Cucumber 2.x.x 
+17:29:52.549 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+17:29:52.619 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+17:29:52.633 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@67499804
+17:29:52.635 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Formulario de Registro:Deberia registrarse cuando envia los datos requeridos
+17:29:52.635 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@67499804: Generating report for test outcome: Formulario de Registro:Deberia registrarse cuando envia los datos requeridos
+17:29:52.649 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for Deberia registrarse cuando envia los datos requeridos to file C:\Users\SoporteTI\Desktop\FINAL ELVIS\dojo_serenity_cucumber\target\site\serenity\62cc65c4d0d12367b80946a69237cd675e1acf35cef67c3c67c4d94e1bdbde3e.json (using temp file C:\Users\SoporteTI\Desktop\FINAL ELVIS\dojo_serenity_cucumber\target\site\serenity\62cc65c4d0d12367b80946a69237cd675e1acf35cef67c3c67c4d94e1bdbde3e.json36d8fed7-6f71-4f62-a03d-6bdd70013b5d)
+17:29:52.769 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Formulario de Registro:Deberia registrarse cuando envia los datos requeridos done
+17:29:52.769 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+17:29:52.769 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 136 ms
+17:29:52.769 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@349f50ba
+17:29:52.770 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Formulario de Registro:Deberia registrarse cuando envia los datos requeridos
+17:29:52.770 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@349f50ba: Generating report for test outcome: Formulario de Registro:Deberia registrarse cuando envia los datos requeridos
+17:29:52.771 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR Deberia registrarse cuando envia los datos requeridos in 62cc65c4d0d12367b80946a69237cd675e1acf35cef67c3c67c4d94e1bdbde3e
+17:29:53.083 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.6 class cucumber.runtime.model.FeatureLoader try Cucumber 4.2.0 
+17:29:53.084 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.0 class cucumber.runtime.model.FeatureLoader try Cucumber 2.x.x 
+17:29:53.129 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.6 class cucumber.runtime.model.FeatureLoader try Cucumber 4.2.0 
+17:29:53.129 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.0 class cucumber.runtime.model.FeatureLoader try Cucumber 2.x.x 
+17:29:53.176 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.6 class cucumber.runtime.model.FeatureLoader try Cucumber 4.2.0 
+17:29:53.177 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.0 class cucumber.runtime.model.FeatureLoader try Cucumber 2.x.x 
+17:29:53.186 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[Requirement{name='Automationpractice', type='theme' parent = 'null', cardNumber='null'}]
+17:29:53.193 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.BaseRequirementsService - Requirement found for test outcome Deberia registrarse cuando envia los datos requeridos-[]: Optional[Requirement{name='Formulario de Registro', type='feature' parent = 'Sing in', cardNumber='null'}]
+17:29:53.196 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.BaseRequirementsService - Requirement found for test outcome Deberia registrarse cuando envia los datos requeridos-[]: Optional[Requirement{name='Formulario de Registro', type='feature' parent = 'Sing in', cardNumber='null'}]
+17:29:53.314 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.BaseRequirementsService - Requirement found for test outcome Deberia registrarse cuando envia los datos requeridos-[]: Optional[Requirement{name='Formulario de Registro', type='feature' parent = 'Sing in', cardNumber='null'}]
+17:29:53.315 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.BaseRequirementsService - Requirement found for test outcome Deberia registrarse cuando envia los datos requeridos-[]: Optional[Requirement{name='Formulario de Registro', type='feature' parent = 'Sing in', cardNumber='null'}]
+17:29:53.548 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 62cc65c4d0d12367b80946a69237cd675e1acf35cef67c3c67c4d94e1bdbde3e_screenshots.html
+17:29:54.046 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 62cc65c4d0d12367b80946a69237cd675e1acf35cef67c3c67c4d94e1bdbde3e_screenshots.html in 498 ms
+17:29:54.048 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Formulario de Registro:Deberia registrarse cuando envia los datos requeridos in 62cc65c4d0d12367b80946a69237cd675e1acf35cef67c3c67c4d94e1bdbde3e.html in directory C:\Users\SoporteTI\Desktop\FINAL ELVIS\dojo_serenity_cucumber\target\site\serenity  
+17:29:54.054 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 62cc65c4d0d12367b80946a69237cd675e1acf35cef67c3c67c4d94e1bdbde3e.html
+17:29:54.369 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 62cc65c4d0d12367b80946a69237cd675e1acf35cef67c3c67c4d94e1bdbde3e.html in 315 ms
+17:29:54.369 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Formulario de Registro:Deberia registrarse cuando envia los datos requeridos done
+17:29:54.369 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+17:29:54.370 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 1601 ms
+17:29:54.668 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Closing darkroom
+17:29:54.668 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line shutting down
+
+1 Scenarios (?[32m1 passed?[0m)
+4 Steps (?[32m4 passed?[0m)
+0m29,586s
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
